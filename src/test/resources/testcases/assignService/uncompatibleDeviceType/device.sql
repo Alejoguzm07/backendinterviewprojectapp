@@ -1,0 +1,1 @@
+INSERT INTO DEVICE VALUES('7e506008-a818-11ed-afa1-0242ac120002', 'TestDevice', 7.0, 'c3b18fbb-eeb2-4121-96f2-f076e7c8bb00');
